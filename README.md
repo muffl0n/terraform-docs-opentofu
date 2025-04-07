@@ -16,4 +16,4 @@ terraform-docs.md updated successfully
 | [google_project.terraform](https://registry.terraform.io/providers/hashicorp/google/latest/docs/resources/project) | resource |
 ```
 
-`google_project.terraform` is missing.
+`google_project.opentofu` is missing.
